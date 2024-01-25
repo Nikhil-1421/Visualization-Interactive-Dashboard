@@ -7,4 +7,4 @@
 
 #### Next I used a local Jupyter Notebook to perform some Data Wrangling, and launch my dash app within Lewis Quali FINAL.ipynb
 
-#### Because the dashboard I created can only be viewed on a local server, I have uploaded a video of the interactive dashboard in use and it can be viewed via https://www.canva.com/design/DAF67LtrjaY/knhOEX1eu6llk3ja7K_p_Q/edit?utm_content=DAF67LtrjaY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+#### Because the dashboard I created can only be viewed on a local server, I have uploaded a video of the interactive dashboard in use and it can be viewed [here](https://www.canva.com/design/DAF67LtrjaY/lmPvJoZqJyzG9iMorCdgHw/watch?utm_content=DAF67LtrjaY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
