@@ -7,7 +7,7 @@ For context, Qualifying is where drivers attempt to set their fastest laps to de
 ##### [Creating a Dataframe to be Visualized](https://github.com/Nikhil-1421/Visualization-Interactive-Dashboard/blob/main/Creating%20Dataframe%20to%20be%20Visualized.ipynb)
 I began by using kaggle to create a notebook where I could parse information from the various dataframes to create one collective dataframe that only displayed Hamilton's qualifying 1,2, and 3 lap times, respectively, his finishing position for the overall qualifying, the year of the grand prix, and the name of the grand prix.
 
-##### [Lewis Quali FINAL](https://github.com/Nikhil-1421/Visualization-Interactive-Dashboard/blob/main/Lewis%20Quali%20FINAL.ipynb)
+##### [Lewis App notebook](https://github.com/Nikhil-1421/Visualization-Interactive-Dashboard/blob/main/Lewis%20App%20notebook.ipynb)
 Next I used a local Jupyter Notebook to perform some Data Wrangling, and to manipulate the dataframe I had created to better output the information I needed it to. Lastly, I used Jupyter Notebook to launch the Dashboard on a local server. 
 
 #### [Example of Dashboard in Use](https://www.canva.com/design/DAF67LtrjaY/lmPvJoZqJyzG9iMorCdgHw/watch?utm_content=DAF67LtrjaY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
