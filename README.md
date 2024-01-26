@@ -10,7 +10,7 @@ I began by using kaggle to create a notebook where I could parse information fro
 ##### [Lewis App notebook](https://github.com/Nikhil-1421/Visualization-Interactive-Dashboard/blob/main/Lewis%20App%20notebook.ipynb)
 Next I used a local Jupyter Notebook to perform some Data Wrangling, and to manipulate the dataframe I had created to better output the information I needed it to. Lastly, I used Jupyter Notebook to launch the Dashboard on a local server. 
 
-#### [Example of Dashboard in Use](https://www.canva.com/design/DAF67LtrjaY/lmPvJoZqJyzG9iMorCdgHw/watch?utm_content=DAF67LtrjaY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
-Because the dashboard I created can only be viewed on a local server for free, I have uploaded a video of the interactive dashboard in use and it can be viewed with the above link. The dashboard creates a scatterplot of Hamilton's Qualifying times and plots them based on which session they occured within. If a laptime of 0 is observed, that indicates that Lewis did not perform well enough in the session prior to make it to that session. There were some years where Formula 1 did not hold a particular Grand Prix, the example in the video is the 2020 Monaco Grand Prix - for those instances I had the dashboard output a message indicating that Lewis wasnt here! 
+#### [Check out my Dashboard!](https://lewis-hamilton-qualifying-dash-app.onrender.com)
+I used render to deploy my dash app for you to enjoy, thanks for stopping by!!
 
 Thanks for checking out my dashboard!
